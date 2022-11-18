@@ -24,12 +24,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React
 - Redux
 - Vite
-- <a href="https://rapidapi.com/tipsters/api/shazam-core/">Rappid Api - Shazam core</a>
-- <a href="https://geo.ipify.org/docs">Geo ipfy Api</a>
+- Rappid Api - Shazam core
+- Geo ipfy Api
 - [Node e NPM](https://nodejs.org/)
 - Tailwindcss
 
-## 💻 Projeto
 
 
 
