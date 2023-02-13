@@ -1,13 +1,7 @@
-<h1 align="center"> Clone Spotify </h1>
+<h1 align="center">🎵 Clone Spotify </h1>
 
 <p align="center">
 Lyrics app
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -16,6 +10,9 @@ Lyrics app
 <p align="center">
   <img alt="lyrics app" src=".github/lyrics-app.png" width="100%">
 </p>
+<div align="center">
+<a href="https://app-music-rlvr33zlu-rogervalentim.vercel.app/">Clique aqui para acessar o projeto</a>
+</div>
 
 ## 🚀 Tecnologias
 
